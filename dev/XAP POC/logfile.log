@@ -10,3 +10,13 @@
 2017-07-09 16:31:22,561 INFO  [Loginxap] PassLoginxapTestCase 
 2017-07-09 16:31:22,561 INFO  [Loginxap] *****  Ending the test case *********** 
 2017-07-09 16:31:22,561 INFO  [Loginxap] $$$$$$$$$     Loginxap $$$$$$$$$$$$$$$$$$ 
+2018-04-25 22:45:49,105 INFO  [Loginxap] *****  Starting the test case *********** 
+2018-04-25 22:45:49,105 INFO  [Loginxap] $$$$$$$  Loginxap   $$$$$$$$$$$$$$$$$$ 
+2018-04-25 22:45:49,105 INFO  [Loginxap] Test Case Start 
+2018-04-25 22:45:55,934 INFO  [Loginxap] Passing username and password 
+2018-04-25 22:45:56,137 ERROR [Loginxap] Failure in class Loginxap 
+2018-04-25 22:46:21,031 INFO  [Loginxap] *****  Starting the test case *********** 
+2018-04-25 22:46:21,031 INFO  [Loginxap] $$$$$$$  Loginxap   $$$$$$$$$$$$$$$$$$ 
+2018-04-25 22:46:21,031 INFO  [Loginxap] Test Case Start 
+2018-04-25 22:46:26,766 INFO  [Loginxap] Passing username and password 
+2018-04-25 22:46:26,938 ERROR [Loginxap] Failure in class Loginxap 
